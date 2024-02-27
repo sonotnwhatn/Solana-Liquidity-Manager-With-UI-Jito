@@ -16,7 +16,7 @@
 - Strategy management, eg selling wallets at particular price increases
 - Liquidity removal
 - Liquidity burn
-- 
+
 ## App structure
 - Frontend built in React
 - API built in Express.js
@@ -26,3 +26,6 @@ It can also be delivered as a Docker container if required for easy usage
 
 # Enquiries
  telegram @sonotnwhatn
+<img width="1912" alt="image" src="https://github.com/sonotnwhatn/Solana-Liquidity-Manager-With-UI-Jito/assets/160819781/5f90a414-cd50-4f0c-8962-74d244f30350">
+
+<img width="1918" alt="image" src="https://github.com/sonotnwhatn/Solana-Liquidity-Manager-With-UI-Jito/assets/160819781/91cc74b3-e01b-4a04-9995-23ec4b939284">
