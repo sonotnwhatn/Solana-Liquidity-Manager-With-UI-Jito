@@ -1,6 +1,7 @@
 
 # Solana Liquidity Manager With React UI and Jito Bundling
 #### _This project is available for purchase_. 
+##### telegram @sonotnwhatn 
 ## Features
 - Launch Tokens
 - Create Logo/Metadata and upload to metaplex/ipfs
